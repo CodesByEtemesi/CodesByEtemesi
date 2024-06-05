@@ -11,7 +11,7 @@ I love code.
 * ✉️  You can contact me at [samweletemesi2@Gmail.com](mailto:samweletemesi2@Gmail.com)
 * 🚀  I'm currently working on [Store Center Application](http://github.com/CodesByEtemesi/store_centre_front)
 * 🧠  I'm learning Tailwind, ReactJs, APIs
-* 🤝  I'm open to collaborating on Other drone project
+* 🤝  I'm open to collaborating on other stores project
 * ⚡  I have a secret superhero identity, but don’t tell anyone.
 
 ### Skills
