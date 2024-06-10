@@ -10,9 +10,9 @@ I love coding.
 * 🖥️  See my portfolio at [My website](http://google.com)
 * ✉️  You can contact me at [samweletemesi2@Gmail.com](mailto:samweletemesi2@Gmail.com)
 * 🚀  I'm currently working on [Store Center Application](http://github.com/CodesByEtemesi/store_centre_front)
-* 🧠  I'm learning Tailwind, ReactJs, APIs
+* 🧠  I'm learning CS50's Web Programming with Python and JavaScript
 * 🤝  I'm open to collaborating on other stores project
-* ⚡  I have a secret superhero identity, but don’t tell anyone.
+* ⚡  Hobbies: Reading Novels, Playing basketball, Playing Chess, and Swimming.
 
 ### Skills
 
